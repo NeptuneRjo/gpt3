@@ -1,6 +1,6 @@
 # GPT3 Product Website
 A fully responsive, modern website that displays information on the GPT3 OpenAI product.
-[Live Preview]()
+[Live Preview](https://neptunerjo.github.io/gpt3/)
 
 ## Project Status: Deployed
 
