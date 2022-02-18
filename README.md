@@ -5,8 +5,7 @@ A fully responsive, modern website that displays information on the GPT3 OpenAI 
 ## Project Status: Deployed
 
 # Screenshots
-[./public/desktop-home.png]
-Desktop View
+![Desktop Preview](public/desktop-home.png?raw=true)
 
 
 # Installation and Setup
