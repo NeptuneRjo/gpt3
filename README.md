@@ -22,6 +22,6 @@ You will need `node` and `npm` to successfully run this application locally.
 
 The GPT-3 website is a personal project built with the goal of deepening my understanding of React, BEM naming conventions, and overall UI/UX development.
 
-This website is a first for implementing responsive UI/UX in React, and creating this project has helped me improve class naming conventions, writing clean React code, and tought me proper file structuring.
+This website is my first time implementing responsive UI/UX in React, and creating this project has helped me improve class naming conventions, writing clean React code, and tought me proper file structuring.
 
-The technologies implemented in this project are React, and a significant amount of JSX and CSS. I used `create-react-app` because the boilerplate minimizes initial setup, and allows me to focus more on developing my code.
+The technologies implemented in this website are React, and a significant amount of JSX and CSS. Figma was used for the design template. I used `create-react-app` because the boilerplate minimizes initial setup, and allows me to focus more on developing my code.
