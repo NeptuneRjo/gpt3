@@ -5,10 +5,9 @@ A fully responsive, modern website that displays information on the GPT3 OpenAI 
 ## Project Status: Deployed
 
 # Screenshots
-[image1]
+[./public/desktop-home.png]
 Desktop View
-[image2]
-Mobile View
+
 
 # Installation and Setup
 You will need `node` and `npm` to successfully run this application locally.
