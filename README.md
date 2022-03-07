@@ -3,7 +3,9 @@ A fully responsive, modern website that displays information on the GPT3 OpenAI 
 
 [Live Preview](https://neptunerjo.github.io/gpt3/)
 
-## Project Status: Deployed
+## Project Tools
+
+`React`, `HTML5`, `CSS3`, `JavaScript`
 
 # Screenshots
 ![Desktop Preview](public/desktop-home.png?raw=true)
